@@ -1,0 +1,14 @@
+---
+title: "Class 09 Mini Project"
+author: "Anyoleth Alarcon"
+date: "2025-04-30"
+output: html_document
+toc: true
+---
+## Importing candy data
+
+
+```{r}
+candy_file <- "candy-data.csv"
+candy = 
+```
