@@ -1,0 +1,44 @@
+---
+title: "yuh"
+author: "anyo"
+format: html
+toc: true
+
+---
+
+## Barbara
+
+Let's see the jobs shes had before.
+
+> #1: lifeguard
+
+> #2: mail thingy
+
+> #3: lulu
+
+```{r}
+names <- c("Anyo", "Barbs", "Drea", "Aimee")
+ages <- c(21, 20, 20, 20)
+majors <- c("Bio & PH", "Soci & PH", "BioChem", "GenBio")
+signs <- c("Aquarius", "Virgo", "Virgo", "Leo")
+sign.color <- c("Green", "Purple", "Blue", "Green")
+drinkydrink <- c("Cafe y Matcha", "Tea y Matcha", "Cafe y Matcha", "Cafe y Matcha")
+```
+
+```{r}
+dfyuh <- data.frame(names, ages, majors, signs, sign.color, drinkydrink, stringsAsFactors = FALSE)
+
+print(dfyuh)
+```
+
+```{r}
+names(dfyuh)
+```
+
+```{r}
+library(ggplot2)
+ggplot(dfyuh, aes(x = sign.color, fill = ages)) +
+  geom_bar() +
+  labs(title = "Zodiac Sign Frequency", x = "Sign", y = "Count")
+```
+

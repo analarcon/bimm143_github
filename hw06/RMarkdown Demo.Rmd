@@ -1,0 +1,33 @@
+---
+title: "RMarkdown Demo"
+author: "Anyoleth Alarcon"
+date: "2025-04-18"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Week 06
+
+This week we introduced this and that and covered so and so thing
+
+```{r}
+mtcars
+```
+
+My notes about my thinking could be here
+
+```{r}
+library(ggplot2)
+
+ggplot(mtcars) +
+  aes(x=mpg,y=disp) +
+  geom_point() +
+  geom_smooth()
+```
+
+
