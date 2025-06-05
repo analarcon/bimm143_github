@@ -10,3 +10,25 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_S25/) Spring 2025 
 - 07 [Machine Learning]()
 
 - 08 [Somethng](https://github.com/analarcon/bimm143_github/blob/main/Class08_mini_project/Class08_mini_project.md)
+
+- 09 [Something]()
+
+- 10 [Sm]()
+
+- 11 [ss]()
+
+- 12 [ss]()
+
+- 13 [ss]()
+
+- 14 [dd]()
+
+- 15 [dd]()
+
+- 16 [dd]()
+
+- 17 [ss]()
+
+- 18 [ss]()
+
+- 19 [dd]()
