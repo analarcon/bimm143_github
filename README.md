@@ -9,4 +9,4 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_S25/) Spring 2025 
 
 - 07 [Something]()
 
-- 08 [Somethng}()
+- 08 [Somethng}(https://github.com/analarcon/bimm143_github/blob/main/Class08_mini_project/Class08_mini_project.md)
