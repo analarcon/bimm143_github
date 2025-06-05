@@ -1,7 +1,7 @@
 # BIMM143
 My classwork from [BIMM143](https://bioboot.github.io/bimm143_S25/) Spring 2025 at UC San Diego.
 
-- 04 [Intro to R]()
+- 04 [Intro to R](https://github.com/analarcon/bimm143_github/blob/main/class04/class04.md)
 
 - 05 [Advanced graphics with **ggplot2**](https://github.com/analarcon/bimm143_github/blob/main/class05/class05.md)
 
@@ -11,11 +11,11 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_S25/) Spring 2025 
 
 - 08 [Machine Learning Mini Project](https://github.com/analarcon/bimm143_github/blob/main/Class08_mini_project/Class08_mini_project.md)
 
-- 09 [Halloween Mini-Project]()
+- 09 [Halloween Mini-Project](https://github.com/analarcon/bimm143_github/blob/main/Class09/Class09Mini.md)
 
-- 10 [Structural Bioinformatics]()
+- 10 [Structural Bioinformatics](https://github.com/analarcon/bimm143_github/blob/main/Class10/Class10Structural.md)
 
-- 11 [AlphaFold]()
+- 11 [AlphaFold](https://github.com/analarcon/bimm143_github/blob/main/Class10/Class11pt2.md)
 
 - 12 [Pt.1 RNASeq Galaxy]()
 
