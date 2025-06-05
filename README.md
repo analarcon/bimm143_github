@@ -19,7 +19,7 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_S25/) Spring 2025 
 
 - 12 [Pt.1 RNASeq Galaxy]()
 
-- 12 [Pt.2 Population Analysis()
+- 12 [Pt.2 Population Analysis]()
 
 - 13 [DESeq Lab]()
 
