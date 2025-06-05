@@ -3,6 +3,10 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_S25/) Spring 2025 
 
 - 04 Intro to R
 
-- 05 Advanced graphics with **ggplot2**
+- 05 [Advanced graphics with **ggplot2**](https://github.com/analarcon/bimm143_github/blob/main/class05/class05.md)
 
-- 06 R functions
+- 06 [R functions](https://github.com/analarcon/bimm143_github/blob/main/class06/class06.md)
+
+- 07 [Something]()
+
+- 08 [Somethng}()
