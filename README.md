@@ -15,7 +15,7 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_S25/) Spring 2025 
 
 - 10 [Structural Bioinformatics](https://github.com/analarcon/bimm143_github/blob/main/Class10/Class10Structural.md)
 
-- 11 [AlphaFold]()
+- 11 [AlphaFold](https://github.com/analarcon/bimm143_github/blob/main/Class10/Class11pt2.md)
 
 - 12 [Pt.1 RNASeq Galaxy]()
 
