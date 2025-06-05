@@ -13,7 +13,7 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_S25/) Spring 2025 
 
 - 09 [Halloween Mini-Project](https://github.com/analarcon/bimm143_github/blob/main/Class09/Class09Mini.md)
 
-- 10 [Structural Bioinformatics]()
+- 10 [Structural Bioinformatics](https://github.com/analarcon/bimm143_github/blob/main/Class10/Class10Structural.md)
 
 - 11 [AlphaFold]()
 
