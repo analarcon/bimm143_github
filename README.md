@@ -11,7 +11,7 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_S25/) Spring 2025 
 
 - 08 [Machine Learning Mini Project](https://github.com/analarcon/bimm143_github/blob/main/Class08_mini_project/Class08_mini_project.md)
 
-- 09 [Halloween Mini-Project]()
+- 09 [Halloween Mini-Project](https://github.com/analarcon/bimm143_github/blob/main/Class09/Class09Mini.md)
 
 - 10 [Structural Bioinformatics]()
 
