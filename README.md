@@ -23,8 +23,6 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_S25/) Spring 2025 
 
 - 14 [DESeq2 Mini-Project](https://github.com/analarcon/bimm143_github/blob/main/Class14/Class14.md)
 
-- 15 [GitHub Repo]()
-
 - 16 [Unix Basics]()
 
 - 17 [Analyzing Sequencing Data in Cloud]()
