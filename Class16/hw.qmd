@@ -1,0 +1,28 @@
+---
+title: "Class16"
+author: "Anyoleth Alarcon A17347293"
+format: pdf
+---
+
+Going to use blast results to get a visual representation
+
+```{r}
+b <- read.delim("results.tsv")
+colnames(b) <- c("qseqid", "sseqid", "pident", "length", "mismatch", "gapopen", "qstart", "qend", "sstart", "send", "evalue", "bitscore")
+
+```
+
+```{r}
+library(ggplot2)
+```
+
+```{r}
+ggplot(b, aes(pident, bitscore)) +
+  geom_point(alpha=0.1)
+```
+
+```{r}
+ggplot(b, aes((b$pident * (b$qend - b$qstart)), bitscore)) + geom_point(alpha=0.1) + geom_smooth()
+
+```
+
