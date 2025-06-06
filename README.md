@@ -23,10 +23,9 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_S25/) Spring 2025 
 
 - 14 [DESeq2 Mini-Project](https://github.com/analarcon/bimm143_github/blob/main/Class14/Class14.md)
 
-- 16 [Unix Basics]()
+- 16 [Unix Basics](https://github.com/analarcon/bimm143_github/blob/main/Class16/hw.md)
 
-- 17 [Analyzing Sequencing Data in Cloud]()
+- 17 [Analyzing Sequencing Data in Cloud](https://github.com/analarcon/bimm143_github/blob/main/Class17/Class17.md)
 
-- 18 [Pertussis Resurgence Mini-Project]()
+- 18 [Pertussis Resurgence Mini-Project](https://github.com/analarcon/bimm143_github/blob/main/Class18/class18.md)
 
-- 19 [Cancer Mutation Mini-Project]()
