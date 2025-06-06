@@ -19,7 +19,7 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_S25/) Spring 2025 
 
 - 12 [RNASeq Galaxy Population Analysis](https://github.com/analarcon/bimm143_github/blob/main/Class12/HW.md)
 
-- 13 [DESeq Lab]()
+- 13 [DESeq Lab](https://github.com/analarcon/bimm143_github/blob/main/Class13/Class13.md)
 
 - 14 [DESeq2 Mini-Project]()
 
